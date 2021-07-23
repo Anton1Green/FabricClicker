@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GameAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: ed18321599f99ec40a1a09588081a8f2, type: 3}
+    - {fileID: 2800000, guid: e76558edf2c63f643bf3d104391d5a3b, type: 3}
+    - {fileID: 2800000, guid: 63e526d6a105d614298737bd7499e951, type: 3}
+    - {fileID: 2800000, guid: 77deab39816f43244b10238c725e0d67, type: 3}
+    - {fileID: 2800000, guid: 488f3313742ac354e8943422a8245bec, type: 3}
+    - {fileID: 2800000, guid: d3ad5deecc9602848b94857c4a9bc8f4, type: 3}
+    - {fileID: 2800000, guid: 7fce25e0175f7f042823f1aa371754e0, type: 3}
+    - {fileID: 2800000, guid: 6c8cec3159a206d40b0c33df71c3f364, type: 3}
+    - {fileID: 2800000, guid: aadc3fb2e2caf854a95871b10eb4e267, type: 3}
+    - {fileID: 2800000, guid: d6551c08d98947d409be4f1e4a02e81e, type: 3}
+    - {fileID: 2800000, guid: 15d2d789853ef8f4f97418e2486b3e5c, type: 3}
+    - {fileID: 2800000, guid: cdc97432712cf044098f447c1c70f2f7, type: 3}
+    - {fileID: 2800000, guid: 3f2a304f4cef66f43a7214df4f6780bf, type: 3}
+    - {fileID: 2800000, guid: 5f5e4f356af02c945bffa8cf1f2c8d58, type: 3}
+    - {fileID: 2800000, guid: a6fd561cd591a354095672b298ddeaad, type: 3}
+    totalSpriteSurfaceArea: 2656436
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 7fce25e0175f7f042823f1aa371754e0, type: 3}
+  - {fileID: 21300000, guid: 6c8cec3159a206d40b0c33df71c3f364, type: 3}
+  - {fileID: 21300000, guid: cdc97432712cf044098f447c1c70f2f7, type: 3}
+  - {fileID: 21300000, guid: aadc3fb2e2caf854a95871b10eb4e267, type: 3}
+  - {fileID: 21300000, guid: 488f3313742ac354e8943422a8245bec, type: 3}
+  - {fileID: 21300000, guid: ed18321599f99ec40a1a09588081a8f2, type: 3}
+  - {fileID: 21300000, guid: 5f5e4f356af02c945bffa8cf1f2c8d58, type: 3}
+  - {fileID: 21300000, guid: 63e526d6a105d614298737bd7499e951, type: 3}
+  - {fileID: 21300000, guid: d6551c08d98947d409be4f1e4a02e81e, type: 3}
+  - {fileID: 21300000, guid: 77deab39816f43244b10238c725e0d67, type: 3}
+  - {fileID: 21300000, guid: 15d2d789853ef8f4f97418e2486b3e5c, type: 3}
+  - {fileID: 21300000, guid: a6fd561cd591a354095672b298ddeaad, type: 3}
+  - {fileID: 21300000, guid: e76558edf2c63f643bf3d104391d5a3b, type: 3}
+  - {fileID: 21300000, guid: d3ad5deecc9602848b94857c4a9bc8f4, type: 3}
+  - {fileID: 21300000, guid: 3f2a304f4cef66f43a7214df4f6780bf, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Stone_1
+  - Stone_2
+  - Book
+  - Stone_3
+  - ProgressBar
+  - Bush
+  - Logo
+  - DialogWindow
+  - Tree_1
+  - Factory
+  - Tree_2
+  - BG
+  - Button_Yellow
+  - ProgressBarSlot
+  - Scroll
+  m_Tag: GameAtlas
+  m_IsVariant: 0
